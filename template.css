@@ -168,12 +168,12 @@ img[Attributes Style] {
 
 #contact a {
     background-color: var(--green-700);
-    border-radius: 100px;
+    border-radius: 12px;
     color: #fff !important;
     font-size: 16px;
     line-height: 18px;
     font-weight: var(--bold);
-    padding: 16px 28px;
+    padding: 16px 20px;
     border: 1px solid var(--green-700);
     transition: 0.3s;
     margin-left: 15px;
@@ -340,7 +340,7 @@ img[Attributes Style] {
 
 input:focus,
 input[type="text"]:focus {
-    border: 1px solid #ff6d3f !important;
+    border: 1px solid var(--ink-300) !important;
     box-shadow: none;
     transition: 0.4s !important;
 }
