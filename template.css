@@ -46,7 +46,7 @@
 @font-face{
     font-family: 'Outfit';
     font-style: normal;
-    font-weight: 900;
+    font-weight: 700;
 }
 
 /* General Style CSS  */
@@ -65,7 +65,7 @@ body {
 }
 
 strong {
-    font-weight: 900;
+    font-weight: 700;
 }
 
 /* Container Width */
@@ -139,12 +139,11 @@ strong {
     font-size: 16px;
     line-height: 18px;
     letter-spacing: 0.08em;
-    font-weight: 900;
+    font-weight: 700;
     padding: 16px 28px ;
     border: 1px solid #FF6D3F;
     transition: 0.3s;
     margin-left: 15px;
-    text-transform: uppercase;
 }
 
 #contact a:hover {
@@ -243,7 +242,7 @@ strong {
 #docsSearch h1 {
     font-size: 48px;
     line-height: 64px;
-    font-weight: 900;
+    font-weight: 700;
     color: #1F2022;
     max-width: 580px;
     position: relative;
@@ -410,7 +409,7 @@ a:focus {
      font-size: 30px;
      line-height: 36px;
      color: #1F2022;
-     font-weight: 900;
+     font-weight: 700;
      text-align: center;
 }
 
@@ -418,21 +417,21 @@ a:focus {
     font-size: 30px;
      line-height: 36px;
      color: #1F2022;
-     font-weight: 900 ;
+     font-weight: 700 ;
 }
 
 h2 {
     font-size: 36px;
      line-height: 36px;
      color: #1F2022;
-     font-weight: 900 ;
+     font-weight: 700 ;
 }
 
 .category-list h3 {
     color: #1F2022;
     font-size: 24px;
     line-height: 30px;
-    font-weight: 900;
+    font-weight: 700;
 }
 
 .category-list .category p {
@@ -657,7 +656,7 @@ footer p a:hover {
 #sidebar h3 {
     font-size: 24px;
     line-height: 30px;
-    font-weight: 900;
+    font-weight: 700;
     color: #1F2022;
     text-transform: capitalize;
 }
@@ -665,7 +664,7 @@ footer p a:hover {
 
 #sidebar .nav-list .active a {
     color: #1F2022;
-    font-weight: 800;
+    font-weight: 700;
     font-size: 20px;
     line-height: 22px;
 }
@@ -725,14 +724,14 @@ footer p a:hover {
 .contentWrapper h1 {
     font-size: 40px;
     line-height: 50px;
-    font-weight: 900;
+    font-weight: 700;
     color: #1F2022;
 }
 
 #categoryHead h1 {
     font-size: 40px;
     line-height: 50px;
-    font-weight: 900;
+    font-weight: 700;
     color: #1F2022;
 }
 
@@ -856,7 +855,7 @@ select {
     padding: 16px 32px;
     font-size: 18px;
     line-height: 18px;
-    font-weight: 900;
+    font-weight: 700;
     transition: 0.3s;
 }
 
@@ -874,13 +873,13 @@ select {
 #fullArticle .title {
     font-size: 40px;
     line-height: 50px;
-    font-weight: 900;
+    font-weight: 700;
 }
 
 #fullArticle h2 {
   font-size: 32px;
   line-height: 48px;
-  font-weight: 900;
+  font-weight: 700;
 }
 
 #fullArticle, #fullArticle p, #fullArticle ul, #fullArticle ol, #fullArticle li, #fullArticle div, #fullArticle blockquote, #fullArticle dd, #fullArticle table {
@@ -1058,7 +1057,7 @@ em {
 .related h3 {
   font-size: 24px;
   line-height: 30px;
-  font-weight: 900;
+  font-weight: 700;
   color: #1F2022;
   text-transform: capitalize;
 }
@@ -1133,7 +1132,7 @@ display: none;
     border-bottom: none;
     font-size: 36px;
     line-height: 36px;
-    font-weight: 900;
+    font-weight: 700;
     color: #1F2022;
 }
 
@@ -1199,7 +1198,7 @@ border-radius: 12px;
     height: 50px;
     text-shadow: none;
     color: #FFF;
-    font-weight: 900;
+    font-weight: 700;
     margin-top: 15px;
     transition: 0.3s;
 }
@@ -1227,7 +1226,7 @@ button.btn, input[type=submit].btn {
     height: 50px;
     text-shadow: none;
     color: #FFF;
-    font-weight: 900;
+    font-weight: 700;
     margin-top: 15px;
     transition: 0.3s;
 }
@@ -1244,7 +1243,7 @@ label {
     border-bottom: none;
     font-size: 18px;
     line-height: 36px;
-    font-weight: 900;
+    font-weight: 700;
     color: #1F2022;
 }
 
