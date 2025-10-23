@@ -167,14 +167,13 @@ img[Attributes Style] {
 /* Contact Us Button */
 
 #contact a {
-    background-color: var(--green-700);
+    background-color: var(--green-500);
     border-radius: 12px;
     color: #fff !important;
     font-size: 16px;
     line-height: 18px;
     font-weight: var(--bold);
     padding: 16px 20px;
-    border: 1px solid var(--green-700);
     transition: 0.3s;
     margin-left: 15px;
 }
@@ -775,11 +774,11 @@ footer p a:hover {
 }
 
 .contentWrapper a {
-    color: #606369;
+    color: var(--ink-500);
 }
 
 .icon-article-doc:before {
-    color: #ff6d3f;
+    color: var(--ink-300);
 }
 
 .articleList a span {
@@ -788,12 +787,12 @@ footer p a:hover {
 
 .articleList a span:hover {
     text-decoration: none;
-    color: #dc5e36;
+    color: var(--green-700);
     transition: 0.3s;
 }
 
 .contentWrapper a:hover {
-    color: #dc5e36;
+    color: var(--green-700);
     transition: 0.3s;
 }
 
