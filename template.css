@@ -687,7 +687,7 @@ footer p a:hover {
     font-size: 24px;
     line-height: 30px;
     font-weight: var(--bold);
-    color: #1f2022;
+    color: var(--ink-700);
     text-transform: capitalize;
 }
 
@@ -706,7 +706,7 @@ footer p a:hover {
     color: var(--ink-300);
     padding: 10px 0px;
     transition: 0.3s;
-    border-left: 3px solid var(--ink-300);
+    border-left: 3px solid #00000000;
     padding-left: 12px;
 }
 
