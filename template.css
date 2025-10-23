@@ -28,7 +28,7 @@
 
 /*@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:ital,wght@0,400;0,500;1,900&display=swap');*/
 
-@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Outfit:wght@100..900&display=swap");
 
 @font-face {
     font-family: "Outfit";
@@ -46,6 +46,12 @@
     font-family: "Outfit";
     font-style: normal;
     font-weight: 700;
+}
+
+@font-face {
+    font-family: "IBM Plex Mono";
+    font-style: normal;
+    font-weight: 500;
 }
 
 /* Variables */
@@ -961,9 +967,9 @@ select {
 }
 
 pre {
-    background-color: #fff5f1;
-    color: #606369;
-    border: 1px solid #ff6d3f;
+    background-color: var(--cream-100);
+    color: var(--ink-500);
+    border: 1px solid #dedede;
 }
 
 #fullArticle pre,
@@ -971,6 +977,10 @@ pre {
     font-size: 18px;
     line-height: 28px;
     color: #606369;
+}
+
+#fullArticle code {
+    font-family: "IBM Plex Mono", monospace;
 }
 
 .articleFoot p,
