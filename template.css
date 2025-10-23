@@ -80,7 +80,7 @@ strong {
 /* Navbar Logo */
 
 .navbar .brand {
-    background: url(assets/wa-logo.png) no-repeat;
+    background: url(/assets/wa-logo.png) no-repeat;
     background-size: 100%, auto;
     background-position: 63% 50%;
     max-width: 238px;
