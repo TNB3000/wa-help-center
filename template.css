@@ -340,7 +340,7 @@ img[Attributes Style] {
 
 input:focus,
 input[type="text"]:focus {
-    border: 1px solid var(--ink-300) !important;
+    border: 1px solid var(--ink-200) !important;
     box-shadow: none;
     transition: 0.4s !important;
 }
@@ -1461,4 +1461,8 @@ textarea:focus {
     .modal-body {
         min-height: 730px;
     }
+}
+
+.category-list.two-col {
+    width: 100%;
 }
