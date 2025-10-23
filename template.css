@@ -677,15 +677,8 @@ footer p a:hover {
 }
 
 #sidebar .nav-list {
-    background-color: #fff;
     margin-top: 23px;
     margin-bottom: 0px;
-    box-shadow:
-        0px 3px 7px rgba(0, 0, 0, 0.01),
-        0px 5px 17px rgba(255, 88, 35, 0.04);
-    border-radius: 12px;
-    padding: 25px 28px 40px;
-    border: 1px solid #e8e9ec;
 }
 
 /* Sidebar Text Style */
@@ -699,22 +692,26 @@ footer p a:hover {
 }
 
 #sidebar .nav-list .active a {
-    color: #1f2022;
+    color: var(--ink-700);
     font-weight: var(--bold);
-    font-size: 20px;
-    line-height: 22px;
+    font-size: 1rem;
+    line-height: 1rem;
+    border-left: 3px solid var(--ink-700);
+    padding-left: 12px;
 }
 
 #sidebar .nav-list a {
-    font-size: 20px;
-    line-height: 22px;
-    color: #ff6d3f;
+    font-size: 1rem;
+    line-height: 1rem;
+    color: var(--ink-300);
     padding: 10px 0px;
     transition: 0.3s;
+    border-left: 3px solid var(--ink-300);
+    padding-left: 12px;
 }
 
 #sidebar .nav-list a:hover {
-    color: #dc5e36;
+    color: var(--green-700);
     transition: 0.3s;
 }
 
