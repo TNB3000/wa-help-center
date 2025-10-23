@@ -8,12 +8,14 @@ CAPS = Category
 **GETTING STARTED**
 - Intro
   - Walkthrough video
-  - User Types
+  - User Types + common terms
 - Business Owners
   - Home
+  - Account Setup
+  - Claiming a Listing
 - Organization Admins
   - Home
-  - HQ
+  - HQ (intro, link to full category)
 
 - **PRODUCT**
   - GETTING STARTED

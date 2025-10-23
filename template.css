@@ -69,6 +69,8 @@
     --green-300: #61d0c6;
     --green-100: #c5eae6;
 
+    --orange-500: #E56910;
+
     --cream-200: #faf7f3;
     --cream-100: #fffdfb;
 
@@ -908,23 +910,23 @@ select {
 /* Article Button Edit */
 
 #fullArticle .admin-edit {
-    color: #fff;
+    color: var(--orange-500);
     display: inline-block;
-    margin-bottom: 22px;
+    margin-bottom: 24px;
     background-image: none;
-    background-color: #ff6d3f;
+    background-color: none;
     text-shadow: none;
     border: none;
-    border-radius: 11px;
-    padding: 16px 32px;
-    font-size: 18px;
-    line-height: 18px;
+    border-radius: 0px;
+    padding: 0px;
+    font-size: 0.875rem;
+    line-height: 1.2rempx;
     font-weight: var(--bold);
     transition: 0.3s;
 }
 
 #fullArticle .admin-edit:hover {
-    background-color: #dc5e36;
+    color: var(--orange-500);
     transition: 0.3s;
 }
 
