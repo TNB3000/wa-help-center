@@ -1,6 +1,6 @@
 /* Startup Template Personalization */
 
-/* 
+/*
 
    Navbar Background Color: #FF6D3F;
    Title Color: #1F2022;
@@ -152,7 +152,7 @@ strong {
     transition: 0.3s;
 }
 
- /* Navbar Media Queries */ 
+ /* Navbar Media Queries */
 
 @media (min-width: 769px) {
     .navbar .nav {
@@ -217,7 +217,7 @@ strong {
     width: 25px !important;
     border-radius: 100px !important;
 }
-    
+
     .navbar .nav li a {
         padding: 15px 0px;
     }
@@ -383,7 +383,7 @@ input:focus, input[type=text]:focus {
     display: block;
     color: #fff;
 }
-    
+
      .icon-search:before {
             position: relative;
     bottom: 2px;
@@ -816,7 +816,7 @@ select {
 }
 
 #searchBar {
-   max-width: 100%; 
+   max-width: 100%;
 }
 
 #categoryHead .sort {
@@ -982,7 +982,7 @@ em {
     }
 }
 
-@media (max-width: 768px){ 
+@media (max-width: 768px){
     .contentWrapper {
         padding: 50px 28px 72px;
     }
@@ -1088,7 +1088,7 @@ em {
 #contactModal, .abuse {
    border: 1px solid #E8E9EC;
    box-shadow: 0px 3px 18px rgba(30, 65, 155, 0.06);
-   border-radius: 24px;   
+   border-radius: 24px;
    top: 6%;
 }
 
@@ -1148,7 +1148,7 @@ input[type=text] {
     background-color: #fff;
         height: 40px;
     font-size: 14px;
-    line-height: 16px; 
+    line-height: 16px;
     color: #606369;
     padding: 4px 12px;
     width: 95%
@@ -1166,7 +1166,7 @@ input[type=text] {
     background-color: #fff;
         height: 40px;
     font-size: 14px;
-    line-height: 16px; 
+    line-height: 16px;
     color: #606369;
     padding: 4px 12px;
     width: 95%
@@ -1179,7 +1179,7 @@ border-radius: 12px;
     background-color: #fff;
     font-size: 16px;
         height: 40px;
-    line-height: 16px; 
+    line-height: 16px;
     color: #606369;
     padding: 4px 12px;
     width: 81%;
@@ -1197,8 +1197,8 @@ border-radius: 12px;
     height: 50px;
     text-shadow: none;
     color: #FFF;
-    font-weight: 900;  
-    margin-top: 15px; 
+    font-weight: 900;
+    margin-top: 15px;
     transition: 0.3s;
 }
 
@@ -1225,8 +1225,8 @@ button.btn, input[type=submit].btn {
     height: 50px;
     text-shadow: none;
     color: #FFF;
-    font-weight: 900;  
-    margin-top: 15px; 
+    font-weight: 900;
+    margin-top: 15px;
     transition: 0.3s;
 }
 
@@ -1253,7 +1253,7 @@ label {
     background-color: #fff;
     font-size: 14px;
         height: 40px;
-    line-height: 16px; 
+    line-height: 16px;
     color: #606369;
     padding: 4px 12px;
     width: 81%;
@@ -1286,7 +1286,7 @@ border-radius: 6px;
     box-shadow: none;
     background-color: #fff;
     font-size: 14px;
-    line-height: 16px; 
+    line-height: 16px;
     color: #606369;
     padding: 4px 12px;
     width: 95%
