@@ -62,6 +62,10 @@
 
     --cream-200: #faf7f3;
     --cream-100: #fffdfb;
+
+    --normal: 400;
+    --medium: 500;
+    --bold: 600;
 }
 
 /* General Style CSS  */
@@ -72,7 +76,7 @@ button,
 select,
 textarea {
     font-family: "Outfit", sans-serif;
-    font-weight: 400;
+    font-weight: var(--normal);
     font-size: 16px;
     -webkit-font-smoothing: antialiased;
 }
@@ -82,7 +86,7 @@ body {
 }
 
 strong {
-    font-weight: 700;
+    font-weight: var(--bold);
 }
 
 /* Container Width */
@@ -159,7 +163,7 @@ img[Attributes Style] {
     color: #fff !important;
     font-size: 16px;
     line-height: 18px;
-    font-weight: 700;
+    font-weight: var(--bold);
     padding: 16px 28px;
     border: 1px solid var(--green-700);
     transition: 0.3s;
@@ -262,7 +266,7 @@ img[Attributes Style] {
 #docsSearch h1 {
     font-size: 48px;
     line-height: 64px;
-    font-weight: 700;
+    font-weight: var(--bold);
     color: var(--ink-700);
     max-width: 580px;
     position: relative;
@@ -300,7 +304,7 @@ img[Attributes Style] {
     border: 0px;
     font-size: 16px;
     /*text-transform: uppercase;*/
-    font-weight: 900;
+    font-weight: var(--bold);
     line-height: 18px;
     padding: 16px 32px;
     height: 50px;
@@ -429,7 +433,7 @@ a:focus {
     font-size: 30px;
     line-height: 36px;
     color: #1f2022;
-    font-weight: 700;
+    font-weight: var(--bold);
     text-align: center;
 }
 
@@ -437,21 +441,21 @@ a:focus {
     font-size: 30px;
     line-height: 36px;
     color: #1f2022;
-    font-weight: 700;
+    font-weight: var(--bold);
 }
 
 h2 {
     font-size: 36px;
     line-height: 36px;
     color: #1f2022;
-    font-weight: 700;
+    font-weight: var(--bold);
 }
 
 .category-list h3 {
     color: #1f2022;
     font-size: 24px;
     line-height: 30px;
-    font-weight: 700;
+    font-weight: var(--bold);
 }
 
 .category-list .category p {
@@ -680,14 +684,14 @@ footer p a:hover {
 #sidebar h3 {
     font-size: 24px;
     line-height: 30px;
-    font-weight: 700;
+    font-weight: var(--bold);
     color: #1f2022;
     text-transform: capitalize;
 }
 
 #sidebar .nav-list .active a {
     color: #1f2022;
-    font-weight: 700;
+    font-weight: var(--bold);
     font-size: 20px;
     line-height: 22px;
 }
@@ -751,14 +755,14 @@ footer p a:hover {
 .contentWrapper h1 {
     font-size: 40px;
     line-height: 50px;
-    font-weight: 700;
+    font-weight: var(--bold);
     color: #1f2022;
 }
 
 #categoryHead h1 {
     font-size: 40px;
     line-height: 50px;
-    font-weight: 700;
+    font-weight: var(--bold);
     color: #1f2022;
 }
 
@@ -881,7 +885,7 @@ select {
     padding: 16px 32px;
     font-size: 18px;
     line-height: 18px;
-    font-weight: 700;
+    font-weight: var(--bold);
     transition: 0.3s;
 }
 
@@ -903,13 +907,13 @@ select {
 #fullArticle .title {
     font-size: 40px;
     line-height: 50px;
-    font-weight: 700;
+    font-weight: var(--bold);
 }
 
 #fullArticle h2 {
     font-size: 32px;
     line-height: 48px;
-    font-weight: 700;
+    font-weight: var(--bold);
 }
 
 #fullArticle,
@@ -1095,7 +1099,7 @@ em {
 .related h3 {
     font-size: 24px;
     line-height: 30px;
-    font-weight: 700;
+    font-weight: var(--bold);
     color: #1f2022;
     text-transform: capitalize;
 }
@@ -1172,7 +1176,7 @@ em {
     border-bottom: none;
     font-size: 36px;
     line-height: 36px;
-    font-weight: 700;
+    font-weight: var(--bold);
     color: #1f2022;
 }
 
@@ -1258,7 +1262,7 @@ input[type="text"] {
     height: 50px;
     text-shadow: none;
     color: #fff;
-    font-weight: 700;
+    font-weight: var(--bold);
     margin-top: 15px;
     transition: 0.3s;
 }
@@ -1287,7 +1291,7 @@ input[type="text"] {
         height: 50px;
         text-shadow: none;
         color: #fff;
-        font-weight: 700;
+        font-weight: 600;
         margin-top: 15px;
         transition: 0.3s;
     }
