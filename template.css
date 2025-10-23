@@ -112,7 +112,7 @@ strong {
 
 .navbar .brand {
     background: url(/wa-help-center/assets/wa-logo.png) no-repeat;
-    background-size: 100%, auto;
+    background-size: 70%, auto;
     background-position: 63% 50%;
     max-width: 238px;
     width: 100%;
