@@ -780,6 +780,7 @@ footer p a:hover {
 }
 
 .icon-article-doc:before {
+    display none;
     color: var(--ink-300);
 }
 
