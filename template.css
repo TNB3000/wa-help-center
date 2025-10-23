@@ -180,7 +180,6 @@ img[Attributes Style] {
 
 #contact a:hover {
     background-color: var(--green-700);
-    border: 1px solid var(--green-700);
     color: #fff !important;
     transition: 0.3s;
 }
