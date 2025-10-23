@@ -473,7 +473,7 @@ h2 {
 }
 
 .category-list .category .article-count {
-    color: #ff6d3f;
+    color: var(--green-500);
     font-size: 20px;
     line-height: 22px;
     transition: 0.3s;
@@ -1463,6 +1463,6 @@ textarea:focus {
     }
 }
 
-.category-list.two-col {
+.category-list.two-col .category {
     width: 100%;
 }
