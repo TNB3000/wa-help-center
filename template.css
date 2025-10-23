@@ -740,9 +740,8 @@ footer p a:hover {
 /* Right Content */
 
 .contentWrapper {
-    background: #fff;
+    background: var(--cream-100);
     border-radius: 12px;
-    border: 1px solid #e8e9ec;
     box-shadow: 0px 3px 8px rgba(88, 88, 88, 0.03);
     padding: 50px 60px 72px;
 }
@@ -757,7 +756,7 @@ footer p a:hover {
     font-size: 40px;
     line-height: 50px;
     font-weight: var(--bold);
-    color: #1f2022;
+    color: var(--ink-700);
 }
 
 #categoryHead h1 {
@@ -902,7 +901,7 @@ select {
 #fullArticle h3,
 #fullArticle h4,
 #fullArticle h5 {
-    color: #1f2022;
+    color: var(--ink-700);
 }
 
 #fullArticle .title {
@@ -936,7 +935,7 @@ select {
 }
 
 .contentWrapper a {
-    color: #ff6d3f;
+    color: var(--green-500);
     transition: 0.3s;
 }
 
@@ -948,13 +947,13 @@ select {
 
 .contentWrapper a:hover {
     text-decoration: none;
-    color: #dc5e36;
+    color: var(--green-700);
     transition: 0.3s;
 }
 
 #fullArticle blockquote {
     font-style: normal;
-    border-left-color: #ff6d3f;
+    border-left-color: var(--green-500);
     border-width: 10px;
     padding: 40px 42px 40px 42px;
     background: rgba(255, 109, 63, 0.07);
