@@ -27,22 +27,24 @@
 
 /* Typography */
 
-@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:ital,wght@0,400;0,500;1,900&display=swap');
+/*@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:ital,wght@0,400;0,500;1,900&display=swap');*/
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
 
 @font-face{
-    font-family: 'Red Hat Display';
+    font-family: 'Outfit';
     font-style: normal;
     font-weight: 400;
 }
 
 @font-face{
-    font-family: 'Red Hat Display';
+    font-family: 'Outfit';
     font-style: normal;
     font-weight: 500;
 }
 
 @font-face{
-    font-family: 'Red Hat Display';
+    font-family: 'Outfit';
     font-style: normal;
     font-weight: 900;
 }
@@ -54,7 +56,7 @@ input,
 button,
 select,
 textarea {
-    font-family: 'Red Hat Display', sans-serif;
+    font-family: 'Outfit', sans-serif;
     font-weight: 400;
 }
 
@@ -931,7 +933,7 @@ pre {
 }
 
 .articleFoot p, .articleFoot time {
-    font-family: 'Red Hat Display', sans-serif;
+    font-family: 'Outfit', sans-serif;
     font-style: normal;
     color: #606369;
     font-size: 18px;
