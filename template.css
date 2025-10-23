@@ -974,9 +974,9 @@ pre {
 
 #fullArticle pre,
 #fullArticle code {
-    font-size: 18px;
-    line-height: 28px;
-    color: #606369;
+    font-size: 1rem;
+    line-height: 1.5rem;
+    color: var(--ink-500);
 }
 
 #fullArticle code {
