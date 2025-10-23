@@ -60,6 +60,9 @@
     --ink-700: #27272a;
     --ink-500: #585861;
     --ink-300: #94949f;
+    --ink-200: #d4d4d8;
+    --ink-100: #ededee;
+    --ink-050: #f4f4f5;
 
     --green-700: #117c72;
     --green-500: #26a69a;
@@ -967,9 +970,10 @@ select {
 }
 
 pre {
-    background-color: var(--cream-100);
+    background-color: var(--ink-100);
     color: var(--ink-500);
-    border: 1px solid #dedede;
+    border: 1px solid var(--ink-200);
+    padding: 24px;
 }
 
 #fullArticle pre,
