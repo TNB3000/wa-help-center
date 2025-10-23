@@ -641,9 +641,9 @@ footer {
 
 footer p {
     margin: 0px;
-    font-size: 18px;
-    line-height: 28px;
-    color: #606369;
+    font-size: 0.875rem;
+    line-height: 1.2rem;
+    color: var(--ink-300);
     text-align: center;
 }
 
