@@ -986,18 +986,18 @@ pre {
 .articleFoot time {
     font-family: "Outfit", sans-serif;
     font-style: normal;
-    color: #606369;
-    font-size: 18px;
+    color: var(--ink-500);
+    font-size: 0.875rem;
 }
 
 #sbContact {
-    color: #ff6d3f;
+    color: var(--green-500);
     border: none;
     transition: 0.3s;
 }
 
 #sbContact:hover {
-    color: #dc5e36;
+    color: var(--green-700);
     transition: 0.3s;
 }
 
@@ -1013,7 +1013,7 @@ pre {
 }
 
 #fullArticle .printArticle:hover .icon-print {
-    color: #ff6d3f;
+    color: var(--green-500);
     transition: 0.3s;
 }
 
