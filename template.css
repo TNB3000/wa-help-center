@@ -970,9 +970,6 @@ select {
 }
 
 pre {
-    background-color: var(--ink-100);
-    color: var(--ink-500);
-    border: 1px solid var(--ink-200);
     padding: 24px;
 }
 
@@ -981,7 +978,9 @@ pre {
     font-family: "IBM Plex Mono", monospace;
     font-size: 0.9375rem;
     line-height: 1.4rem;
+    background-color: var(--ink-100);
     color: var(--ink-500);
+    border: 1px solid var(--ink-200);
 }
 
 .articleFoot p,
