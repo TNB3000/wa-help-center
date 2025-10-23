@@ -317,7 +317,7 @@ img[Attributes Style] {
 #searchBar button {
     color: #fff;
     text-shadow: none;
-    background: var(--green-700);
+    background: var(--green-500);
     border-radius: 100px;
     border: 0px;
     font-size: 16px;
@@ -491,7 +491,7 @@ h2 {
     margin-top: 30px;
 }
 
-p.article-count {
+.article-count {
     color: var(--green-500);
     font-size: 0.875rem;
     line-height: 1.2rem;
