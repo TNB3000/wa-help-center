@@ -770,6 +770,9 @@ footer p a:hover {
     font-size: 18px;
     line-height: 28px;
     color: #606369;
+    padding: 16px;
+    background: var(--cream-200);
+    margin: 12px;
 }
 
 .contentWrapper a {
