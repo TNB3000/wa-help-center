@@ -5,10 +5,21 @@ Below is a first attempt
 **BOLD** = Collection
 CAPS = Category
 
+**GETTING STARTED**
+- Intro
+  - Walkthrough video
+  - User Types
+- Business Owners
+  - Home
+- Organization Admins
+  - Home
+  - HQ
+
 - **PRODUCT**
   - GETTING STARTED
     - Home
-    - Operators
+    - Claiming a Listing
+    -
     - Org Admins
   - HQ
     - Activity
