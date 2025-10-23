@@ -111,7 +111,7 @@ strong {
 }
 
 .navbar .navbar-inner {
-    background: #fff;
+    background: var(--cream-100);
     z-index: 999;
     position: relative;
     box-shadow: none;
@@ -157,7 +157,6 @@ img[Attributes Style] {
     color: #fff !important;
     font-size: 16px;
     line-height: 18px;
-    letter-spacing: 0.08em;
     font-weight: 700;
     padding: 16px 28px;
     border: 1px solid var(--green-700);
@@ -250,12 +249,12 @@ img[Attributes Style] {
 #docsSearch {
     border-bottom: 0px;
     padding: 200px 24px 200px;
-    background-color: #fff;
+    background-color: var(--cream-100);
     margin-bottom: 128px;
-    background-image: url(https://i.ibb.co/WcjQcsM/startup-template-background-hero-section.png);
+    /*background-image: url(https://i.ibb.co/WcjQcsM/startup-template-background-hero-section.png);
     background-repeat: no-repeat;
     background-size: contain;
-    background-position: center;
+    background-position: center;*/
 }
 
 #docsSearch h1 {
@@ -300,7 +299,6 @@ img[Attributes Style] {
     font-size: 16px;
     /*text-transform: uppercase;*/
     font-weight: 900;
-    letter-spacing: 0.08em;
     line-height: 18px;
     padding: 16px 32px;
     height: 50px;
@@ -466,7 +464,6 @@ h2 {
     line-height: 22px;
     transition: 0.3s;
     /*text-transform: uppercase;*/
-    letter-spacing: 0.08em;
     margin-top: 30px;
 }
 
