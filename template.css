@@ -775,6 +775,10 @@ footer p a:hover {
     margin: 12px;
 }
 
+.articleList a {
+    margin: 0;
+}
+
 .contentWrapper a {
     color: var(--ink-500);
 }
