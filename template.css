@@ -773,6 +773,7 @@ footer p a:hover {
     padding: 16px;
     background: var(--cream-200);
     margin: 12px;
+    border-radius: 8px;
 }
 
 .articleList a {
@@ -784,8 +785,8 @@ footer p a:hover {
 }
 
 .icon-article-doc:before {
-    display none;
-    color: var(--ink-300);
+    display: none;
+    color: var(--green-500);
 }
 
 .articleList a span {
