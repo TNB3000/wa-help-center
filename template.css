@@ -491,7 +491,7 @@ h2 {
     margin-top: 30px;
 }
 
-.article-count p {
+p.article-count {
     color: var(--green-500);
     font-size: 0.875rem;
     line-height: 1.2rem;
