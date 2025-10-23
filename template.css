@@ -730,6 +730,7 @@ footer p a:hover {
 #sidebar .nav-list .active a:hover .icon-arrow,
 #sidebar .nav-list .active a:focus .icon-arrow {
     color: var(--ink-700) !important;
+    display: none;
 }
 
 .icon-arrow:before {
