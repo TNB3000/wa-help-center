@@ -698,18 +698,25 @@ footer p a:hover {
     text-transform: capitalize;
 }
 
+#sidebar .nav-list li {
+    margin: 0;
+}
+
 #sidebar .nav-list .active a {
     color: var(--ink-700);
     font-weight: var(--bold);
     font-size: 1rem;
     line-height: 1rem;
+    padding: 8px 12px;
+    border-left: 3px solid var(--ink-700);
 }
 
 #sidebar .nav-list a {
     font-size: 1rem;
     line-height: 1rem;
     color: var(--ink-300);
-    padding: 10px 0px;
+    padding: 8px 12px;
+    border-left: 3px solid var(--ink-100);
     transition: 0.3s;
 }
 
@@ -985,8 +992,8 @@ pre {
 #fullArticle pre,
 #fullArticle code {
     font-family: "IBM Plex Mono", monospace;
-    font-size: 0.9375rem;
-    line-height: 1.4rem;
+    font-size: 0.875rem;
+    line-height: 1.3rem;
     background-color: var(--cream-200);
     color: var(--ink-500);
 }
