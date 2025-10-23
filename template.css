@@ -696,8 +696,6 @@ footer p a:hover {
     font-weight: var(--bold);
     font-size: 1rem;
     line-height: 1rem;
-    border-left: 3px solid var(--ink-700);
-    padding-left: 12px;
 }
 
 #sidebar .nav-list a {
@@ -706,8 +704,6 @@ footer p a:hover {
     color: var(--ink-300);
     padding: 10px 0px;
     transition: 0.3s;
-    border-left: 3px solid #00000000;
-    padding-left: 12px;
 }
 
 #sidebar .nav-list a:hover {
@@ -735,11 +731,11 @@ footer p a:hover {
 #sidebar .nav-list .active a .icon-arrow,
 #sidebar .nav-list .active a:hover .icon-arrow,
 #sidebar .nav-list .active a:focus .icon-arrow {
-    color: #1f2022 !important;
+    color: var(--ink-700) !important;
 }
 
 .icon-arrow:before {
-    color: #1f2022;
+    color: var(--ink-700);
 }
 
 /* Right Content */
