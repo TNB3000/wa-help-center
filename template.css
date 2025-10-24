@@ -70,9 +70,9 @@
     --green-300: #61d0c6;
     --green-100: #c5eae6;
 
-    --orange-500: #E56910;
+    --orange-500: #e56910;
 
-    --cream-300: #EAE8E4;
+    --cream-300: #eae8e4;
     --cream-200: #faf7f3;
     --cream-100: #fffdfb;
 
@@ -82,9 +82,15 @@
     --bold: 600;
 
     /* SHADOWS */
-    --shadow-025: 0 0.7px 1px 0 rgba(197, 189, 181, 0.06), 0 1.1px 1.5px -0.4px rgba(197, 189, 181, 0.16), 0 2.1px 2.9px -0.7px rgba(197, 189, 181, 0.25);
-    --shadow-050: 0 0.7px 1px 0 rgba(197, 189, 181, 0.06), 0 1.6px 2.2px -0.3px rgba(197, 189, 181, 0.20), 0 2.6px 4px -0.8px rgba(197, 189, 181, 0.28);
-    --shadow-100: 0 0.7px 1px 0 rgba(197, 189, 181, 0.06), 0 2px 2.7px -0.2px rgba(197, 189, 181, 0.14), 0 2.6px 6px -0.4px rgba(197, 189, 181, 0.22), 0 4px 10px -0.8px rgba(197, 189, 181, 0.30);
+    --shadow-025:
+        0 0.7px 1px 0 rgba(197, 189, 181, 0.06), 0 1.1px 1.5px -0.4px rgba(197, 189, 181, 0.16),
+        0 2.1px 2.9px -0.7px rgba(197, 189, 181, 0.25);
+    --shadow-050:
+        0 0.7px 1px 0 rgba(197, 189, 181, 0.06), 0 1.6px 2.2px -0.3px rgba(197, 189, 181, 0.2),
+        0 2.6px 4px -0.8px rgba(197, 189, 181, 0.28);
+    --shadow-100:
+        0 0.7px 1px 0 rgba(197, 189, 181, 0.06), 0 2px 2.7px -0.2px rgba(197, 189, 181, 0.14),
+        0 2.6px 6px -0.4px rgba(197, 189, 181, 0.22), 0 4px 10px -0.8px rgba(197, 189, 181, 0.3);
 }
 
 /* General Style CSS  */
@@ -507,7 +513,6 @@ h2 {
     margin-top: 4px;
 }
 
-
 /* Category Thumbnails */
 
 /*  #category- {background-image: url("");}  */
@@ -516,23 +521,28 @@ h2 {
 
 /*Introduction*/
 #category-128 {
-    background-image: url("https://raw.githubusercontent.com/TNB3000/wa-help-center/refs/heads/main/assets/getting-started.intro.svg");}
+    background-image: url("https://raw.githubusercontent.com/TNB3000/wa-help-center/refs/heads/main/assets/getting-started.intro.svg");
+}
 /*Account Admins*/
 #category-131 {
-    background-image: url("https://raw.githubusercontent.com/TNB3000/wa-help-center/refs/heads/main/assets/getting-started.admins.svg");}
+    background-image: url("https://raw.githubusercontent.com/TNB3000/wa-help-center/refs/heads/main/assets/getting-started.admins.svg");
+}
 /*Account Members*/
 #category-130 {
-    background-image: url("https://raw.githubusercontent.com/TNB3000/wa-help-center/refs/heads/main/assets/getting-started.members.svg");}
+    background-image: url("https://raw.githubusercontent.com/TNB3000/wa-help-center/refs/heads/main/assets/getting-started.members.svg");
+}
 
 /***** PRODUDCT *****/
 
 /* HQ */
 #category-134 {
-    background-image: url("https://raw.githubusercontent.com/TNB3000/wa-help-center/refs/heads/main/assets/product.hq.svg");}
+    background-image: url("https://raw.githubusercontent.com/TNB3000/wa-help-center/refs/heads/main/assets/product.hq.svg");
+}
 
 /*Directory*/
 #category-24 {
-    background-image: url("https://raw.githubusercontent.com/TNB3000/wa-help-center/refs/heads/main/assets/product.directory.svg");}
+    background-image: url("https://raw.githubusercontent.com/TNB3000/wa-help-center/refs/heads/main/assets/product.directory.svg");
+}
 
 /* Custom Lists */
 #category-59 {
@@ -549,9 +559,17 @@ h2 {
     background-image: url("https://raw.githubusercontent.com/TNB3000/wa-help-center/refs/heads/main/assets/product.widgets.svg");
 }
 
+/***** DEVELOPER DOCS *****/
 
+/* Set Up */
+#category-114 {
+    background-image: url("https://raw.githubusercontent.com/TNB3000/wa-help-center/refs/heads/main/assets/dev.intro.svg");
+}
 
-
+/* Widgets */
+#category-113 {
+    background-image: url("https://raw.githubusercontent.com/TNB3000/wa-help-center/refs/heads/main/assets/dev.widgets.svg");
+}
 
 /* Categories Card Style */
 
