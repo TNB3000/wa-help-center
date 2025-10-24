@@ -314,7 +314,7 @@ img[Attributes Style] {
     border-radius: 100px;
     border: 1px solid #ebecef;
     padding: 25px 30px;
-    box-shadow: var(--shadow-050);
+    box-shadow: var(--shadow-100);
     font-size: 18px;
     line-height: 18px;
     color: #606369;
@@ -356,7 +356,7 @@ img[Attributes Style] {
 
 input:focus,
 input[type="text"]:focus {
-    border: 1px solid var(--ink-200) !important;
+    border: 1px solid var(--ink-100) !important;
     box-shadow: none;
     transition: 0.4s !important;
 }
