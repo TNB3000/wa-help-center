@@ -122,7 +122,7 @@ strong {
 /* Navbar Logo */
 
 .navbar .brand {
-    background: url(/wa-help-center/assets/wa-logo.png) no-repeat;
+    background: url(/wa-help-center/assets/wa-logo.svg) no-repeat;
     background-size: 70%, auto;
     background-position: 0% 50%;
     max-width: 238px;
