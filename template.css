@@ -453,6 +453,7 @@ a:focus {
     color: #1f2022;
     font-weight: var(--bold);
     text-align: center;
+    margin: 0 0 40px;
 }
 
 .collection-category h2 a {
