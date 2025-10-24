@@ -990,7 +990,7 @@ select {
 }
 
 .contentWrapper a {
-    color: var(--green-500);
+    color: var(--ink-500);
     transition: 0.3s;
 }
 
