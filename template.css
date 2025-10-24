@@ -816,7 +816,7 @@ footer p a:hover {
     line-height: 28px;
     color: #606369;
     padding: 16px;
-    background: var(--cream-200);
+    /*background: var(--cream-200);*/
     margin: 0;
     border-radius: 0px;
     border-bottom: 2px solid var(--ink-100);
