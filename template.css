@@ -383,7 +383,7 @@ input[type="text"]:focus {
 
 /* Hero Background Mobile */
 
-@media only screen and (min-width: 200px) and (max-width: 500px) {
+/*@media only screen and (min-width: 200px) and (max-width: 500px) {
     #docsSearch {
         background-image: url("https://i.ibb.co/r3cYwTG/mobile-startup-template-background-hero-section.png");
         background-repeat: no-repeat;
@@ -399,7 +399,7 @@ input[type="text"]:focus {
         background-size: cover;
         background-position: center bottom;
     }
-}
+}*/
 
 /* Media Queries Mobile Hero */
 
