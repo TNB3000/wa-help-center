@@ -1012,6 +1012,7 @@ pre {
 #fullArticle code {
     font-family: "IBM Plex Mono", monospace;
     font-size: 0.875rem;
+    font-weight: 450;
     line-height: 1.3rem;
     background-color: var(--cream-300);
     color: var(--ink-500);
