@@ -1152,19 +1152,19 @@ em {
     font-size: 24px;
     line-height: 30px;
     font-weight: var(--bold);
-    color: #1f2022;
+    color: var(--ink-700);
     text-transform: capitalize;
 }
 
 .related ul > li {
     font-size: 18px;
     line-height: 28px;
-    color: #ff6d3f;
+    color: var(--green-500);
     transition: 0.3s;
 }
 
 .related ul > li a {
-    color: #ff6d3f;
+    color: var(--green-500);
     transition: 0.3s;
     font-size: 18px;
     line-height: 18px;
@@ -1174,7 +1174,7 @@ em {
     text-decoration: none;
 }
 .related a:hover {
-    color: #dc5e36;
+    color: var(--green-700);
     transition: 0.3s;
 }
 
