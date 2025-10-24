@@ -803,7 +803,7 @@ footer p a:hover {
     font-size: 40px;
     line-height: 50px;
     font-weight: var(--bold);
-    color: #1f2022;
+    color: var(--ink-700);
 }
 
 .articleList li {
@@ -812,7 +812,7 @@ footer p a:hover {
     color: #606369;
     padding: 16px;
     background: var(--cream-200);
-    margin: 12px;
+    margin: 0 0 12px 0;
     border-radius: 8px;
 }
 
@@ -827,7 +827,7 @@ footer p a:hover {
 
 .icon-article-doc:before {
     /*display: none;*/
-    color: var(--green-500);
+    color: var(--ink-500);
 }
 
 .articleList a span {
@@ -836,12 +836,12 @@ footer p a:hover {
 
 .articleList a span:hover {
     text-decoration: none;
-    color: var(--green-700);
+    color: var(--ink-500);
     transition: 0.3s;
 }
 
 .contentWrapper a:hover {
-    color: var(--green-700);
+    color: var(--ink-500);
     transition: 0.3s;
 }
 
