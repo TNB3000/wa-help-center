@@ -57,6 +57,7 @@
 /* Variables */
 
 :root {
+    /* COLORS */
     --ink-700: #27272a;
     --ink-500: #585861;
     --ink-300: #94949f;
@@ -75,9 +76,15 @@
     --cream-200: #faf7f3;
     --cream-100: #fffdfb;
 
+    /* WEIGHTS */
     --normal: 400;
     --medium: 500;
     --bold: 600;
+
+    /* SHADOWS */
+    --shadow-025: 0 0.7px 1px 0 rgba(197, 189, 181, 0.06), 0 1.1px 1.5px -0.4px rgba(197, 189, 181, 0.16), 0 2.1px 2.9px -0.7px rgba(197, 189, 181, 0.25);
+    --shadow-050: 0 0.7px 1px 0 rgba(197, 189, 181, 0.06), 0 1.6px 2.2px -0.3px rgba(197, 189, 181, 0.20), 0 2.6px 4px -0.8px rgba(197, 189, 181, 0.28);
+    --shadow-100: 0 0.7px 1px 0 rgba(197, 189, 181, 0.06), 0 2px 2.7px -0.2px rgba(197, 189, 181, 0.14), 0 2.6px 6px -0.4px rgba(197, 189, 181, 0.22), 0 4px 10px -0.8px rgba(197, 189, 181, 0.30);
 }
 
 /* General Style CSS  */
@@ -307,9 +314,7 @@ img[Attributes Style] {
     border-radius: 100px;
     border: 1px solid #ebecef;
     padding: 25px 30px;
-    box-shadow:
-        0px 3px 7px rgba(0, 0, 0, 0.01),
-        0px 5px 17px rgba(255, 88, 35, 0.04);
+    box-shadow: var(--shadow-050);
     font-size: 18px;
     line-height: 18px;
     color: #606369;
