@@ -147,6 +147,7 @@ strong {
 .navbar .nav li a {
     font-size: 14px;
     line-height: 20px;
+    font-weight: var(--medium);
     color: var(--ink-700);
     transition: 0.3s;
     /*text-transform: uppercase;*/
