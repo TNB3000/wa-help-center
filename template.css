@@ -571,6 +571,11 @@ h2 {
     background-image: url("https://raw.githubusercontent.com/TNB3000/wa-help-center/refs/heads/main/assets/dev.widgets.svg");
 }
 
+/* Site integration */
+#category-138 {
+    background-image: url("https://raw.githubusercontent.com/TNB3000/wa-help-center/refs/heads/main/assets/dev.sites.svg");
+}
+
 /* Categories Card Style */
 
 .category-list .category {
