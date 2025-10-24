@@ -502,6 +502,18 @@ h2 {
 
 /* Category Thumbnails */
 
+/*  #category- {background-image: url("");}  */
+
+/*Introduction*/
+#category-128 {background-image: url("");}
+/*Account Admins*/
+#category-131 {background-image: url("https://raw.githubusercontent.com/TNB3000/wa-help-center/refs/heads/main/assets/getting-started.admins.svg");}
+/*Account Members*/
+#category-130 {background-image: url("https://raw.githubusercontent.com/TNB3000/wa-help-center/refs/heads/main/assets/getting-started.members.svg");}
+/* HQ */
+#category-134 {background-image: url("https://raw.githubusercontent.com/TNB3000/wa-help-center/refs/heads/main/assets/product.hq.svg");}
+
+/* Custom Lists */
 #category-59 {
     background-image: url("https://raw.githubusercontent.com/TNB3000/wa-help-center/refs/heads/main/assets/apps.lists.svg");
 }
