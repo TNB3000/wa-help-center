@@ -592,8 +592,8 @@ h2 {
 .category-list .category,
 .category-list .category:hover {
     background-repeat: no-repeat;
-    background-position: center 45px;
-    background-size: 130px;
+    background-position: center 60px;
+    background-size: 120px;
 }
 
 .category-list .category:hover {
