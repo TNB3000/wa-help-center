@@ -71,6 +71,7 @@
 
     --orange-500: #E56910;
 
+    --cream-300: #EAE8E4;
     --cream-200: #faf7f3;
     --cream-100: #fffdfb;
 
@@ -1012,7 +1013,7 @@ pre {
     font-family: "IBM Plex Mono", monospace;
     font-size: 0.875rem;
     line-height: 1.3rem;
-    background-color: var(--cream-200);
+    background-color: var(--cream-300);
     color: var(--ink-500);
 }
 
