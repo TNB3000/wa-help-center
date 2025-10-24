@@ -734,7 +734,7 @@ footer p a:hover {
     font-size: 1rem;
     line-height: 1rem;
     color: var(--ink-300);
-    padding: 8px 12px;
+    padding: 12px;
     border-left: 3px solid var(--ink-100);
     transition: 0.3s;
 }
