@@ -280,7 +280,7 @@ img[Attributes Style] {
 /* Hero Background */
 
 #docsSearch {
-    border-bottom: 0px;
+    border-bottom: 2px solid var(--ink-100);
     padding: 120px 24px 120px;
     background-color: var(--cream-100);
     margin-bottom: 128px;
