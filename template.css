@@ -999,7 +999,7 @@ select {
     border-left-color: var(--green-500);
     border-width: 10px;
     padding: 20px 24px;
-    background: rgba(255, 109, 63, 0.07);
+    background: #c5eae680;
     border-radius: 8px;
 }
 
