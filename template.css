@@ -1016,6 +1016,7 @@ select {
 .contentWrapper a {
     color: var(--ink-500);
     transition: 0.3s;
+    text-decoration: underline;
 }
 
 .contentWrapper p.descrip {
@@ -1025,7 +1026,6 @@ select {
 }
 
 .contentWrapper a:hover {
-    text-decoration: none;
     color: var(--green-700);
     transition: 0.3s;
 }
