@@ -504,53 +504,46 @@ h2 {
 
 /*  #category- {background-image: url("");}  */
 
+/***** GETTING STARTED *****/
+
 /*Introduction*/
-#category-128 {background-image: url("");}
+#category-128 {
+    background-image: url("https://raw.githubusercontent.com/TNB3000/wa-help-center/refs/heads/main/assets/getting-started.intro.svg");}
 /*Account Admins*/
-#category-131 {background-image: url("https://raw.githubusercontent.com/TNB3000/wa-help-center/refs/heads/main/assets/getting-started.admins.svg");}
+#category-131 {
+    background-image: url("https://raw.githubusercontent.com/TNB3000/wa-help-center/refs/heads/main/assets/getting-started.admins.svg");}
 /*Account Members*/
-#category-130 {background-image: url("https://raw.githubusercontent.com/TNB3000/wa-help-center/refs/heads/main/assets/getting-started.members.svg");}
+#category-130 {
+    background-image: url("https://raw.githubusercontent.com/TNB3000/wa-help-center/refs/heads/main/assets/getting-started.members.svg");}
+
+/***** PRODUDCT *****/
+
 /* HQ */
-#category-134 {background-image: url("https://raw.githubusercontent.com/TNB3000/wa-help-center/refs/heads/main/assets/product.hq.svg");}
+#category-134 {
+    background-image: url("https://raw.githubusercontent.com/TNB3000/wa-help-center/refs/heads/main/assets/product.hq.svg");}
+
+/*Directory*/
+#category-24 {
+    background-image: url("https://raw.githubusercontent.com/TNB3000/wa-help-center/refs/heads/main/assets/product.directory.svg");}
 
 /* Custom Lists */
 #category-59 {
     background-image: url("https://raw.githubusercontent.com/TNB3000/wa-help-center/refs/heads/main/assets/product.lists.svg");
 }
 
-#category-28 {
-    background-image: url("https://i.ibb.co/3vs0Gdk/account-management-background-category.png");
+/*Events*/
+#category-23 {
+    background-image: url("https://raw.githubusercontent.com/TNB3000/wa-help-center/refs/heads/main/assets/product.events.svg");
 }
 
-#category-29 {
-    background-image: url("https://i.ibb.co/QKwKMDH/payment-and-billing-background-category.png");
+/* Widgets */
+#category-23 {
+    background-image: url("https://raw.githubusercontent.com/TNB3000/wa-help-center/refs/heads/main/assets/product.widgets.svg");
 }
 
-#category-30 {
-    background-image: url("https://i.ibb.co/945px7n/user-management-background-category.png");
-}
 
-#category-31 {
-    background-image: url("https://i.ibb.co/pJBpnGV/integrations-background-category.png");
-}
 
-#category-32 {
-    background-image: url("https://i.ibb.co/XbjBYBz/others-background-category.png");
-}
 
-/* Category Thumbnails */
-
-#category-38 {
-    background-image: url("https://i.ibb.co/1bbqzVQ/app-downloads-background-category.png");
-}
-
-#category-36 {
-    background-image: url("https://i.ibb.co/c3xrjgF/feature-requests-background-category.png");
-}
-
-#category-37 {
-    background-image: url("https://i.ibb.co/djzKnqj/premium-support-background-category.png");
-}
 
 /* Categories Card Style */
 
