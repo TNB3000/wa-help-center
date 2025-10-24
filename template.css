@@ -815,10 +815,11 @@ footer p a:hover {
 
 .contentWrapper a {
     color: var(--ink-500);
+    font-weight: 500;
 }
 
 .icon-article-doc:before {
-    display: none;
+    /*display: none;*/
     color: var(--green-500);
 }
 
