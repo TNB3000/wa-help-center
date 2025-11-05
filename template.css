@@ -571,6 +571,12 @@ h2 {
 
 /***** DEVELOPER DOCS *****/
 
+/* Security, Privacy, and Infra */
+
+#category-145 {
+    background-image: url("https://raw.githubusercontent.com/TNB3000/wa-help-center/refs/heads/main/assets/dev.security.svg");
+}
+
 /* Set Up */
 #category-114 {
     background-image: url("https://raw.githubusercontent.com/TNB3000/wa-help-center/refs/heads/main/assets/dev.intro.svg");
