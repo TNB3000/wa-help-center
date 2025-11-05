@@ -564,6 +564,11 @@ h2 {
     background-image: url("https://raw.githubusercontent.com/TNB3000/wa-help-center/refs/heads/main/assets/product.tools.svg");
 }
 
+/* Privacy & Security */
+#category-150 {
+    background-image: url("https://raw.githubusercontent.com/TNB3000/wa-help-center/refs/heads/main/assets/product.privacy.svg");
+}
+
 /***** DEVELOPER DOCS *****/
 
 /* Set Up */
