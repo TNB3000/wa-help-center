@@ -1155,6 +1155,11 @@ em {
     border: none;
     border-radius: 8px;
     padding: 0px;
+    box-shadow:
+        0 0.7px 1px 0 rgba(197, 189, 181, 0.06),
+        0 2px 2.7px -0.2px rgba(197, 189, 181, 0.14),
+        0 2.6px 6px -0.4px rgba(197, 189, 181, 0.22),
+        0 4px 10px -0.8px rgba(197, 189, 181, 0.3);
 }
 
 #fullArticle {
