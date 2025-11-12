@@ -1166,6 +1166,10 @@ em {
     max-width: 100%;
 }
 
+#fullArticle p {
+    margin-bottom: 1rem;
+}
+
 /* Media Queries */
 
 @media (max-width: 768px) {
