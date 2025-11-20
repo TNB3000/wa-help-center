@@ -1025,6 +1025,11 @@ select {
     color: var(--ink-500);
 }
 
+#fullArticle ul,
+#fullArticle ol {
+   margin: 1rem 0 1rem 1rem;
+}
+
 #fullArticle strong {
     color: var(--ink-700);
 }
