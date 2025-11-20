@@ -1152,6 +1152,7 @@ em {
 /* Article Image */
 
 #fullArticle img {
+    margin: 2em 0 2em 0;
     border: none;
     border-radius: 8px;
     padding: 0px;
