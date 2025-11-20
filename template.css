@@ -554,6 +554,11 @@ h2 {
     background-image: url("https://raw.githubusercontent.com/TNB3000/wa-help-center/refs/heads/main/assets/product.events.svg");
 }
 
+/*People*/
+#category-119 {
+   background-image: url("https://raw.githubusercontent.com/TNB3000/wa-help-center/refs/heads/main/assets/product.people.svg");
+}
+
 /* Widgets */
 #category-58 {
     background-image: url("https://raw.githubusercontent.com/TNB3000/wa-help-center/refs/heads/main/assets/product.widgets.svg");
